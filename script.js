@@ -133,18 +133,18 @@ const courseCategories = [
 
 const courseLinks = {
     beni_suef: {
-        english_for_it_1: 'https://www.netacad.com/courses/english-for-it1?courseLang=en-US&instance_id=c09b005b-aa8d-4543-b6e4-db1c89e55518',
-        english_for_it_2: 'https://www.netacad.com/courses/english-for-it2?courseLang=en-US&instance_id=678614b3-488a-4e72-9450-bc220af651b3',
-        networking_basics: 'https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=e17c6bdb-e4cc-4a63-8eb9-a504a68d5d24',
-        networking_devices: 'https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US&instance_id=7e1e1795-ae2c-450d-b810-d925785ca02e',
-        network_addressing: 'https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US&instance_id=1a991226-8595-4d18-8db6-5fb3eb7ac6a6',
-        network_support: 'https://www.netacad.com/courses/network-support-security?courseLang=en-US&instance_id=1935720d-5aa2-4649-a865-5fec61862125',
-        endpoint_security: 'https://www.netacad.com/courses/endpoint-security?courseLang=en-US&instance_id=04e4a890-ad98-4aab-8c53-01bf1d89a3d6',
-        network_defense: 'https://www.netacad.com/courses/network-defense?courseLang=en-US&instance_id=f4bc54da-eff9-4279-9a61-d37f5f94dfb5',
-        cyber_threat: 'https://www.netacad.com/courses/cyber-threat-management?courseLang=en-US&instance_id=154b51ff-9858-4ed4-a38b-453e2773765a',
+        english_for_it_1: 'https://www.netacad.com/courses/english-for-it1?courseLang=en-US&instance_id=a91f37ee-fa1d-48a1-912b-3d1b351c5b15',
+        english_for_it_2: 'https://www.netacad.com/courses/english-for-it2?courseLang=en-US&instance_id=2e119ba5-39af-41c1-8948-eecd78b51fe0',
+        networking_basics: 'https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=2d9fa161-36b9-487c-b079-441f4d4e6e5d',
+        networking_devices: 'https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US&instance_id=192d9ee6-337b-45d7-b3be-d44e95440ac1',
+        network_addressing: 'https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US&instance_id=ad3f36f2-0200-487a-a35f-a589d8900694',
+        network_support: 'https://www.netacad.com/courses/network-support-security?courseLang=en-US&instance_id=c72f4a23-38b4-4623-b32c-c11a7b40a367',
+        endpoint_security: 'https://www.netacad.com/courses/endpoint-security?courseLang=en-US&instance_id=1beed087-d330-4b31-852d-cdcdfde76298',
+        network_defense: 'https://www.netacad.com/courses/network-defense?courseLang=en-US&instance_id=a03b7e40-2ce2-4ca4-bc52-894af84afefd',
+        cyber_threat: 'https://www.netacad.com/courses/cyber-threat-management?courseLang=en-US&instance_id=b2b71572-5657-46d6-9697-4631f348ab07',
         intro_cybersecurity: 'https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=96c09c95-1ffc-49dc-bd34-d3944a2d5da9',
-        intro_modern_ai: 'https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=en-US&instance_id=689be794-1f8b-4d29-b8ad-d1d3c35d427f',
-        ai_fundamentals: 'https://www.netacad.com/courses/ai-ibm-skillsbuild?courseLang=en-US&instance_id=b5f2c10e-c2fe-4a49-95bd-3ac28b54dbb7'
+        intro_modern_ai: 'https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=en-US&instance_id=a1a5b8bf-e715-4eae-bc0a-b92e56698015',
+        ai_fundamentals: 'https://www.netacad.com/courses/ai-ibm-skillsbuild?courseLang=en-US&instance_id=54bba145-9b6c-4b1e-a76d-9ca42ad8467d'
     },
     cairo: {
         english_for_it_1: 'https://www.netacad.com/courses/english-for-it1?courseLang=en-US&instance_id=f97a7aae-db86-4e15-8d50-3d2869f9aa1f',
